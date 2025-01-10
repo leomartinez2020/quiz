@@ -9,7 +9,8 @@
 import { ref, computed } from 'vue'
 import QuestionDisplay from './components/QuestionDisplay.vue'
 import NextButton from './components/NextButton.vue'
-import questionsData from './questions.json'
+//import questionsData from './questions.json'
+import questionsData from './translations.json'
 
 const questions = questionsData.questions
 
