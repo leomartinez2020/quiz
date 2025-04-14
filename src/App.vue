@@ -12,8 +12,8 @@ import QuestionDisplay from './components/QuestionDisplay.vue'
 import NextButton from './components/NextButton.vue'
 import PreviousButton from './components/PreviousButton.vue'
 
-//import questionsData from './questions.json'
-import questionsData from './translations.json'
+import questionsData from './questions.json'
+//import questionsData from './translations.json'
 
 const questions = questionsData.questions
 
