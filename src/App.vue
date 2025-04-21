@@ -14,7 +14,8 @@ import PreviousButton from './components/PreviousButton.vue'
 
 //import questionsData from './questions.json'
 //import questionsData from './translations.json'
-import questionsData from './reportedspeech.json'
+//import questionsData from './reportedspeech.json'
+import questionsData from './phrasals.json
 
 const questions = questionsData.questions
 
