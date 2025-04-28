@@ -1,28 +1,52 @@
 {
   "questions": [
-    "The factory will shut down next month.",
-    "La fábrica se va a clausurar el próximo mes.",
-    "What time does the plane take off?",
-    "¿A qué hora despega el avión?",
-    "Can we put off the meeting until tomorrow?",
-    "¿Podemos posponer la reunión hasta mañana?",
-    "Who looks after your dog when you're away?",
-    "¿Quién cuida de tu perro cuando no estás?",
-    "I can’t figure out how to use this app.",
-    "No puedo entender cómo usar esta aplicación.",
-    "She turned down the job offer.",
-    "Ella rechazó la oferta de trabajo.",
-    "He decided to give up smoking.",
-    "Él decidió dejar de fumar.",
-    "I need to catch up on my homework.",
-    "Necesito ponerme al día con mi tarea.",
-    "I ran into my old teacher at the mall.",
-    "Me encontré con mi antiguo profesor en el centro comercial.",
-    "Calm down, everything is going to be fine.",
-    "Cálmate, todo va a estar bien.",
-    "They work out at the gym every morning.",
-    "Ellos hacen ejercicio en el gimnasio todas las mañanas.",
-    "Can you pick me up at the station at 6?",
-    "¿Puedes recogerme en la estación a las 6?"
+    {
+      "english": "Please ask for help if you don’t understand.",
+      "spanish": "Por favor, pide ayuda si no entiendes."
+    },
+    {
+      "english": "I always pay for my coffee before I leave the shop.",
+      "spanish": "Siempre pago mi café antes de salir de la tienda."
+    },
+    {
+      "english": "We depend on our teachers to help us learn.",
+      "spanish": "Dependemos de nuestros profesores para que nos ayuden a aprender."
+    },
+    {
+      "english": "She believes in working hard to reach her goals.",
+      "spanish": "Ella cree en trabajar duro para alcanzar sus metas."
+    },
+    {
+      "english": "You should listen to your parents.",
+      "spanish": "Deberías escuchar a tus padres."
+    },
+    {
+      "english": "I will wait for you after school.",
+      "spanish": "Te esperaré después de la escuela."
+    },
+    {
+      "english": "He always thinks about his family when he travels.",
+      "spanish": "Él siempre piensa en su familia cuando viaja."
+    },
+    {
+      "english": "I dream about visiting New York one day.",
+      "spanish": "Sueño con visitar Nueva York algún día."
+    },
+    {
+      "english": "You must focus on your homework now.",
+      "spanish": "Debes concentrarte en tu tarea ahora."
+    },
+    {
+      "english": "It’s hard to concentrate on my work when it’s noisy.",
+      "spanish": "Es difícil concentrarse en mi trabajo cuando hay ruido."
+    },
+    {
+      "english": "I agree with you — that movie was really good!",
+      "spanish": "Estoy de acuerdo contigo, ¡esa película fue realmente buena!"
+    },
+    {
+      "english": "It’s not nice to laugh at other people.",
+      "spanish": "No es agradable reírse de otras personas."
+    }
   ]
 }
