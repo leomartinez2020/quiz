@@ -1,76 +1,57 @@
 {
-  "questions": [
-    "I am a big fan of Shakira",
-    "I am a big fan of Shakira ✔",
-    "Sara is teacher",
-    "Sara is teacher ✖ - Correct: Sara is a teacher",
-    "My brother work in a bank",
-    "My brother work in a bank ✖ - Correct: My brother works in a bank",
-    "I like hiking, swimming, and biking",
-    "I like hiking, swimming, and biking ✔",
-    "She has twenty-five years old",
-    "She has twenty-five years old ✖ - Correct: She is twenty-five years old",
-    "My sister lives in Bogotá",
-    "My sister lives in Bogotá ✔",
-    "I am agree with you",
-    "I am agree with you ✖ - Correct: I agree with you",
-    "He doesn't like coffee",
-    "He doesn't like coffee ✔",
-    "What time is it?",
-    "What time is it? ✔",
-    "I have hungry",
-    "I have hungry ✖ - Correct: I am hungry",
-    "My parents are very kind",
-    "My parents are very kind ✔",
-    "Do you like chocolate?",
-    "Do you like chocolate? ✔",
-    "She no likes vegetables",
-    "She no likes vegetables ✖ - Correct: She doesn't like vegetables",
-    "We are going to the beach tomorrow",
-    "We are going to the beach tomorrow ✔",
-    "I have a red beautiful car",
-    "I have a red beautiful car ✖ - Correct: I have a beautiful red car",
-    "He is listening to music",
-    "He is listening to music ✔",
-    "My friends and I play football on Sundays",
-    "My friends and I play football on Sundays ✔",
-    "I am interesting in history",
-    "I am interesting in history ✖ - Correct: I am interested in history",
-    "Where do you live?",
-    "Where do you live? ✔",
-    "Is very hot today",
-    "Is very hot today ✖ - Correct: It is very hot today",
-    "My mother cooks very well",
-    "My mother cooks very well ✔",
-    "I no understand the question",
-    "I no understand the question ✖ - Correct: I don't understand the question",
-    "She is a doctor",
-    "She is a doctor ✔",
-    "My house is more big than yours",
-    "My house is more big than yours ✖ - Correct: My house is bigger than yours",
-    "I usually wake up at seven",
-    "I usually wake up at seven ✔",
-    "I have twenty years",
-    "I have twenty years ✖ - Correct: I am twenty years old",
-    "Carlos speaks three languages",
-    "Carlos speaks three languages ✔",
-    "Today is rainy",
-    "Today is rainy ✖ - Correct: It is rainy today",
-    "We live near the beach",
-    "We live near the beach ✔",
-    "My friend is very simpatic",
-    "My friend is very simpatic ✖ - Correct: My friend is very nice",
-    "She wants to learn English",
-    "She wants to learn English ✔",
-    "He is working in a new project",
-    "He is working in a new project ✖ - Correct: He is working on a new project",
-    "I drink coffee every morning",
-    "I drink coffee every morning ✔",
-    "I need a advice",
-    "I need a advice ✖ - Correct: I need some advice",
-    "My grandparents live in a small town",
-    "My grandparents live in a small town ✔",
-    "She is married with a lawyer",
-    "She is married with a lawyer ✖ - Correct: She is married to a lawyer"
-  ]
+    "questions": [
+        "Mi auto siempre se avería cuando lo necesito",
+        "My car always breaks down when I need it",
+
+        "Ellos van a cancelar la reunión mañana",
+        "They will call off the meeting tomorrow",
+
+        "Yo me despierto a las seis todos los días",
+        "I wake up at six every day",
+
+        "A veces me encuentro con palabras nuevas en los libros",
+        "Sometimes I come across new words in books",
+
+        "Mi hermano y yo nos llevamos muy bien",
+        "My brother and I get along very well",
+
+        "No debes rendirte cuando algo es difícil",
+        "You must not give up when something is hard",
+
+        "Ella cuida a sus abuelos los fines de semana",
+        "She takes care of her grandparents on weekends",
+
+        "Por favor, debes calmarte antes del examen",
+        "You must calm down before the exam",
+
+        "Voy a anotar tu número de teléfono ahora",
+        "I will write down your phone number now",
+
+        "Si llueve, ellos pueden cancelar el partido",
+        "If it rains, they may call off the game",
+
+        "Mi computadora se avería cuando abro muchos programas",
+        "My computer breaks down when I open many programs",
+
+        "Nosotros nos despertamos temprano los lunes",
+        "We wake up early on Mondays",
+
+        "Tú puedes encontrarte con viejos amigos en la fiesta",
+        "You may come across old friends at the party",
+
+        "Los niños se llevan bien con su nuevo maestro",
+        "The children get along with their new teacher",
+
+        "Nunca debemos rendirnos con nuestros sueños",
+        "We must never give up on our dreams",
+
+        "Él va a cuidar al perro esta noche",
+        "He will take care of the dog tonight",
+
+        "Necesitas calmarte y respirar despacio",
+        "You need to calm down and breathe slowly",
+
+        "Siempre anoto las palabras nuevas en mi cuaderno",
+        "I always write down new words in my notebook"
+    ]
 }
