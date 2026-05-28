@@ -1,0 +1,22 @@
+{
+    "questions": [
+        "Is it an animal?",
+        "No",
+        "Is it a person?",
+        "No",
+        "Is it food?",
+        "No",
+        "Can you eat it?",
+        "No",
+        "Is it a part of the body?",
+        "Yes",
+        "Is it on the face?",
+        "No",
+        "Is it on the head?",
+        "Yes",
+        "Can you cut it?",
+        "Yes",
+        "Is it hair?",
+        "Yes"
+    ]
+}

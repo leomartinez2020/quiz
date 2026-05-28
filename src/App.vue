@@ -33,6 +33,8 @@ import questionsData from './questions.json'
 import reportedSpeechData from './reportedspeech.json'
 import translationsData from './translations.json'
 import writingData from './writing.json'
+import yesnoQuestions1 from './yesno1.json'
+import yesnoQuestions2 from './yesno2.json'
 
 const fileOptions = [
   { value: 'preguntas', label: 'Preguntas' },
@@ -45,6 +47,8 @@ const fileOptions = [
   { value: 'reportedspeech', label: 'Reported Speech' },
   { value: 'translations', label: 'Translations' },
   { value: 'writing', label: 'Writing' },
+  { value: 'yesno1', label: 'YesNoQuestions1' },
+  { value: 'yesno2', label: 'YesNoQuestions2' },
 ]
 
 const allData = {
@@ -58,6 +62,8 @@ const allData = {
   reportedspeech: reportedSpeechData.questions,
   translations: translationsData.questions,
   writing: writingData.questions,
+  yesno1: yesnoQuestions1.questions,
+  yesno2: yesnoQuestions2.questions,
 }
 
 const selectedFile = ref('preguntas')

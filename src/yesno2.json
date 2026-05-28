@@ -1,0 +1,24 @@
+{
+    "questions": [
+        "Is it an animal?",
+        "No",
+        "Is it a person?",
+        "No",
+        "Is it food?",
+        "No",
+        "Is it a part of the body?",
+        "No",
+        "Is it a thing?",
+        "Yes",
+        "Is it big?",
+        "No",
+        "Do you use it every day?",
+        "Yes",
+        "Do you have this thing in your pocket?",
+        "yes",
+        "Can you buy things with it?",
+        "Yes",
+        "Is it money?",
+        "Yes"
+    ]
+}
